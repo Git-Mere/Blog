@@ -4,15 +4,11 @@ permalink: /about/
 layout: single
 comments: false
 ---
-  links: # 사이트 링크
-     - label: "Email"
-       icon: "fas fa-fw fa-envelope-square"
-       url: "meregi7410@gmail.com"
-     - label: "Website"
-       icon: "fas fa-fw fa-link"
-       url: "https://git-mere.github.io/"
-     - label: "GitHub"
-       icon: "fab fa-fw fa-github"
-       url: "https://github.com/Git-Mere"
+이것저것 한 번씩 해보는 거 좋아하고 게임하는 거 좋아하는 주니어 개발자입니다!
 
-본인 소개 여기에 입력
+
+[EMAIL](meregi7410@gmail.com)
+
+[WEBSITE](https://git-mere.github.io)
+
+[GITHUB](https://github.com/Git-Mere)
