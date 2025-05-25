@@ -38,6 +38,7 @@
         </li>
       {% endif %}
 
+      {% unless page.url == "/" %}
       {% if author.links %}
         {% for link in author.links %}
           {% if link.label and link.url %}
@@ -246,7 +247,7 @@
           </a>
         </li>
       {% endif %}
-
+      {% endunless %}
       {% include author-profile-custom-links.html %}
     </ul>
   </div>
