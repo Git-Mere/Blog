@@ -18,11 +18,11 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Categories1"
-    url: /categories/categories1/
-  - title: "Categories2"
+  - title: "개발"
+    children:
+      - title: "C++"
+        url: /categories/categories1/
+  - title: "워홀"
     url: /categories/categories2/
-  - title: "Categories3"
+  - title: "일상"
     url: /categories/categories3/
-  - title: "Categories4"
-    url: /categories/categories4/

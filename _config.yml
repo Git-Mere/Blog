@@ -101,7 +101,7 @@ author:
   name: "Mere blog" # 블로그 닉네임
   avatar: "/assets/images/profile_photo.png" # 블로그 프로필 사진
    # bio              : "Hello Everyone!"
-   # location         : "Seoul, Korea"
+  location         : "Seoul, Korea"
    # email            : "meregi7410@gmail.com"
 
   links: # 사이트 링크

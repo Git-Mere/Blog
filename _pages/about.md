@@ -10,9 +10,9 @@ comments: false
 ### 이것저것 한 번씩 해보는 거 좋아하고 게임하는 거 좋아하는 주니어 개발자입니다!
 
 
-{% if site.author.links %}
-
 📍 {{ site.author.location }}
+
+{% if site.author.links %}
 
 <ul>
   {% for link in site.author.links %}
