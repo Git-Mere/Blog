@@ -41,24 +41,22 @@ layout: default
           </aside>
         {% endif %}
         {{ content }}
-        {% if page.show_author_links %}
-    <div class="author-links">
-      {% if site.author.links %}
-        <ul>
-          {% for link in site.author.links %}
-            {% if link.url %}
-              <li>
-                <i class="{{ link.icon }}"></i>
-                <a href="{% if link.label == 'Email' %}mailto:{{ link.url }}{% else %}{{ link.url }}{% endif %}" target="_blank">
-                  {{ link.label }}
-                </a>
-              </li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-      {% endif %}
-    </div>
-  {% endif %}
+        {% if page.author %}
+  <div class="author-info">
+    <img src="{{ page.author.avatar }}" alt="{{ page.author.name }}" />
+    <h3>{{ page.author.name }}</h3>
+    <p>{{ page.author.bio }}</p>
+    <p>{{ page.author.location }}</p>
+    <ul>
+      {% for link in page.author.links %}
+        <li>
+          <i class="{{ link.icon }}"></i>
+          <a href="{{ link.url }}" target="_blank">{{ link.label }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endif %}
   
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
