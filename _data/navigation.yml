@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "Home"
-    url: https://choiiis.github.io/
+    url: https://git-mere.github.io/Blog/
 
   - title: "About"
     url: /about/
 
   - title: "GitHub"
-    url: https://github.com/choiiis
+    url: https://github.com/Git-Mere
 
   # - title: "Projects"
   #   url: /projects/
