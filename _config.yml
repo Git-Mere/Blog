@@ -100,8 +100,8 @@ analytics:
 author:
   name: "Mere blog" # 블로그 닉네임
   avatar: "/assets/images/profile_photo.png" # 블로그 프로필 사진
-  bio              : "Hello Everyone!"
-  location         : "Seoul, Korea"
+   # bio              : "Hello Everyone!"
+   # location         : "Seoul, Korea"
    # email            : "meregi7410@gmail.com"
 
   links: # 사이트 링크
@@ -123,6 +123,9 @@ author:
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://www.instagram.com/"
+     - label: "LinkedIn"
+       icon: "fab fa-fw fa-linkedin"
+       url: "https://www.linkedin.com/in/seungheon-jeon-4025222a3/"
 
 # Site Footer
 footer:
