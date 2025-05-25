@@ -1,5 +1,5 @@
 ---
-title: "개발"
+title: "C++"
 layout: category
 permalink: /categories/categories1/
 author_profile: true
