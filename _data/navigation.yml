@@ -20,9 +20,8 @@ main:
 categories:
   - title: "개발"
     children:
-      - title: "C++"
+      - title: "C/C++"
         url: /categories/categories1/
-
   - title: "워홀"
     url: /categories/categories2/
   - title: "일상"
