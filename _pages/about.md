@@ -18,10 +18,10 @@ author:
      - label: "Website"
        icon: "fas fa-fw fa-link"
        url: "https://git-mere.github.io/"
-     - label: "GitHub"
+     - label: "https://github.com/Git-Mere"
        icon: "fab fa-fw fa-github"
        url: "https://github.com/Git-Mere"
-     - label: "LinkedIn"
+     - label: "https://www.linkedin.com/in/seungheon-jeon-4025222a3/"
        icon: "fab fa-fw fa-linkedin"
        url: "https://www.linkedin.com/in/seungheon-jeon-4025222a3/"
 ---
