@@ -5,10 +5,10 @@ layout: single
 comments: false
 
 author:
-  name: "Mere blog" # 블로그 닉네임
-  avatar: "/assets/images/profile_photo.png" # 블로그 프로필 사진
+   # name: "Mere blog" # 블로그 닉네임
+   # avatar: "/assets/images/profile_photo.png" # 블로그 프로필 사진
    # bio              : "Hello Everyone!"
-  location         : "Seoul, Korea"
+  location         : "📍 Seoul, Korea"
    # email            : "meregi7410@gmail.com"
 
   links: # 사이트 링크
@@ -29,22 +29,3 @@ author:
 ![about_photo](https://git-mere.github.io/Blog/assets/images/about_photo.gif)
 
 ### 이것저것 한 번씩 해보는 거 좋아하고 게임하는 거 좋아하는 주니어 개발자입니다!
-
-
-<!-- 📍 {{ site.author.location }}
-
-{% if site.author.links %}
-
-<ul>
-  {% for link in site.author.links %}
-    {% if link.url %}
-    <li>
-      <i class="{{ link.icon }}"></i>
-      <a href="{% if link.label == 'Email' %}mailto:{{ link.url }}{% else %}{{ link.url }}{% endif %}" target="_blank">
-        {{ link.label }}
-      </a>
-    </li>
-    {% endif %}
-  {% endfor %}
-</ul>
-{% endif %} -->
