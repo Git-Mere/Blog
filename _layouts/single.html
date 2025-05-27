@@ -49,10 +49,20 @@ layout: default
     <p>{{ page.author.location }}</p>-->
     <ul>
       {% for link in page.author.links %}
-        <li>
-          <i class="{{ link.icon }}"></i>
-          <a href="{{ link.url }}" target="_blank">{{ link.label }}</a>
-        </li>
+  {% if link.label == "Email" %}
+    <li>
+      <a href="mailto:{{ link.url }}">
+        <meta itemprop="email" content="{{ link.url }}" />
+        <i class="{{ link.icon }}" aria-hidden="true"></i>
+        <span class="label">{{ link.label }}</span>
+      </a>
+    </li>
+  {% else %}
+    <li>
+      <i class="{{ link.icon }}"></i>
+      <a href="{{ link.url }}" target="_blank">{{ link.label }}</a>
+    </li>
+  {% endif %}
       {% endfor %}
     </ul>
   </div>
