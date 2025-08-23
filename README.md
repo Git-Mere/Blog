@@ -129,7 +129,7 @@ categories:
   - title: "Categories4"
     url: /categories/categories4/
 ```
-
+ss
 ### ▪ 포스트 작성
 
 1. `_posts/YYYY-MM-DD-post-name-here.md` 파일 생성
