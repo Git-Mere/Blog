@@ -24,7 +24,9 @@ categories:
         url: /categories/categories1/
       - title: "Git"
         url: /categories/categories4/
+
   - title: "미국"
     url: /categories/categories2/
+    
   - title: "일상"
     url: /categories/categories3/
