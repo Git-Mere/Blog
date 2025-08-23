@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "Home"
-    url: https://choiiis.github.io/
+    url: https://git-mere.github.io/Blog/
 
   - title: "About"
     url: /about/
 
   - title: "GitHub"
-    url: https://github.com/choiiis
+    url: https://github.com/Git-Mere
 
   # - title: "Projects"
   #   url: /projects/
@@ -16,27 +16,15 @@ main:
   #   url: /categories/
 
 # sidebar navigation (categories)
-# 2022.09.24 sidebar ver2.0 : main-sub version
+# 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Title1"
+  - title: "개발"
     children:
-      - title: "Categories1"
+      - title: "C/C++"
         url: /categories/categories1/
-      - title: "Categories2"
-        url: /categories/categories2/
-      - title: "Categories3"
-        url: /categories/categories3/
-      - title: "Categories4"
+      - title: "Git"
         url: /categories/categories4/
-
-  - title: "Title2"
-    children:
-      - title: "Categories5"
-        url: /categories/categories5/
-      - title: "Categories6"
-        url: /categories/categories6/
-
-  - title: "Title3"
-    children:
-      - title: "Categories7"
-        url: /categories/categories7/
+  - title: "미국"
+    url: /categories/categories2/
+  - title: "일상"
+    url: /categories/categories3/

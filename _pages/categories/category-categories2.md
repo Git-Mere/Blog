@@ -1,5 +1,5 @@
 ---
-title: "22222"
+title: "미국"
 layout: category
 permalink: /categories/categories2/
 author_profile: true
