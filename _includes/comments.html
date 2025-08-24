@@ -152,7 +152,7 @@
       </section>
     {% when "utterances" %}
       <h4 class="page__comments-title">{{ comments_label }}</h4>
-      {% include comments-providers/utterances.html %}
+      <section id="utterances-comments"></section>
     {% when "custom" %}
       {% include /comments-providers/custom.html %}
   {% endcase %}
