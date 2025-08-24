@@ -94,7 +94,7 @@ analytics:
   # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id: "G-DS048P3CNV"
-    anonymize_ip: # true, false (default)
+    anonymize_ip: true # true, false (default)
 
 # Site Author
 author:
