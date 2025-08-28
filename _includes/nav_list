@@ -26,6 +26,3 @@
     {% endfor %}
   </ul>
 </nav>
-    {% endfor %}
-  </ul>
-</nav>
