@@ -16,25 +16,25 @@ main:
   #   url: /categories/
 
 # sidebar navigation (categories)
-# 2022.02.15 sidebar update : simple ver.
-# categories:
-#   - title: "개발"
-#     children:
-#       - title: "C/C++"
-#         url: /categories/categories1/   # category-categories1.md 의 permalink
-#       - title: "Git"
-#         url: /categories/categories4/   # category-categories4.md 의 permalink
-#   - title: "미국"
-#     url: /categories/categories2/
-#   - title: "일상"
-#     url: /categories/categories3/
-
+#2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "C/C++"
-    url: /categories/categories1/   # category-categories1.md 의 permalink
-  - title: "내가 볼려고 만든 것들"
-    url: /categories/categories4/   # category-categories4.md 의 permalink
+  - title: "개발"
+    children:
+      - title: "C/C++"
+        url: /categories/categories1/   # category-categories1.md 의 permalink
+      - title: "내가 볼려고 만든 것들"
+        url: /categories/categories4/   # category-categories4.md 의 permalink
   - title: "미국"
     url: /categories/categories2/
   - title: "일상"
     url: /categories/categories3/
+
+# categories:
+#   - title: "C/C++"
+#     url: /categories/categories1/
+#   - title: "내가 볼려고 만든 것들"
+#     url: /categories/categories4/
+#   - title: "미국"
+#     url: /categories/categories2/
+#   - title: "일상"
+#     url: /categories/categories3/
