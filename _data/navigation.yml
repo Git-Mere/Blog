@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "Home"
-    url: https://choiiis.github.io/
+    url: https://git-mere.github.io/Blog/
 
   - title: "About"
     url: /about/
 
   - title: "GitHub"
-    url: https://github.com/choiiis
+    url: https://github.com/Git-Mere
 
   # - title: "Projects"
   #   url: /projects/
@@ -17,12 +17,24 @@ main:
 
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
+# categories:
+#   - title: "개발"
+#     children:
+#       - title: "C/C++"
+#         url: /categories/categories1/   # category-categories1.md 의 permalink
+#       - title: "Git"
+#         url: /categories/categories4/   # category-categories4.md 의 permalink
+#   - title: "미국"
+#     url: /categories/categories2/
+#   - title: "일상"
+#     url: /categories/categories3/
+
 categories:
-  - title: "Categories1"
-    url: /categories/categories1/
-  - title: "Categories2"
+  - title: "C/C++"
+    url: /categories/categories1/   # category-categories1.md 의 permalink
+  - title: "내가 볼려고 만든 것들"
+    url: /categories/categories4/   # category-categories4.md 의 permalink
+  - title: "미국"
     url: /categories/categories2/
-  - title: "Categories3"
+  - title: "일상"
     url: /categories/categories3/
-  - title: "Categories4"
-    url: /categories/categories4/

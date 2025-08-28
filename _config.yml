@@ -19,14 +19,14 @@ minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
 
 # Site Settings
 locale: "ko-KR" #"en-US"
-title: "Blog Name Here" # 상단 헤더에 보이는 블로그 명
+title: "Mere blog" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
-name: "your name here" # 블로그 닉네임 설정
-description: "this is my blog!" # 블로그 설명
-url: "https://github-account.github.io" # 블로그 URL
-baseurl: # the subpath of your site, e.g. "/blog"
-repository: "github-account/github-account.github.io" # GitHub Repo 이름
+name: "Mere" # 블로그 닉네임 설정
+description: "그냥 아무거나 올리는 블로그" # 블로그 설명
+url: "https://Git-Mere.github.io" # 블로그 URL
+baseurl: "/Blog" # the subpath of your site, e.g. "/blog"
+repository: "Git-Mere/Blog" # GitHub Repo 이름
 teaser: #
 
 # logo                     : # 블로그명 앞에 로고 추가하고 싶을 경우 사용
@@ -93,24 +93,24 @@ analytics:
   provider: "google-gtag"
   # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id: "your tracking id here"
-    anonymize_ip: # true, false (default)
+    tracking_id: "G-DS048P3CNV"
+    anonymize_ip: true # true, false (default)
 
 # Site Author
 author:
-  name: "your name here" # 블로그 닉네임
-  avatar: "/assets/images/meee.png" # 블로그 프로필 사진
-  #   bio              : "hi all!"
-  # location         : "Seoul, Korea"
-  # email            : "youremailhere@xxxxxx.com"
+  name: "Mere blog" # 블로그 닉네임
+  avatar: "/assets/images/profile_photo.png" # 블로그 프로필 사진
+   # bio              : "Hello Everyone!"
+   # location         : "Seoul, Korea"
+   # email            : "meregi7410@gmail.com"
 
   links: # 사이트 링크
 #     - label: "Email"
 #       icon: "fas fa-fw fa-envelope-square"
-#       # url: "mailto:your.name@email.com"
+#       url: "meregi7410@gmail.com"
 #     - label: "Website"
 #       icon: "fas fa-fw fa-link"
-#       # url: "https://your-website.com"
+#       url: "https://git-mere.github.io/"
 #     - label: "Twitter"
 #       icon: "fab fa-fw fa-twitter-square"
 #       # url: "https://twitter.com/"
@@ -119,10 +119,13 @@ author:
 #       # url: "https://facebook.com/"
 #     - label: "GitHub"
 #       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/"
+#       url: "https://github.com/Git-Mere"
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://www.instagram.com/"
+#     - label: "LinkedIn"
+#       icon: "fab fa-fw fa-linkedin"
+#       url: "https://www.linkedin.com/in/seungheon-jeon-4025222a3/"
 
 # Site Footer
 footer:
@@ -216,6 +219,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jekyll-gist
   # - jekyll-feed
   - jekyll-include-cache

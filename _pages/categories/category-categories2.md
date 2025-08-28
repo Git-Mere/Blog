@@ -1,9 +1,9 @@
 ---
-title: "Categories2"
+title: "미국"
 layout: category
 permalink: /categories/categories2/
 author_profile: true
-taxonomy: Categories2
+taxonomy: 미국
 sidebar:
   nav: "categories"
 ---
