@@ -117,6 +117,8 @@ last_modified_at: 2025-09-20
 
 [House Robber](https://leetcode.com/problems/house-robber/)
 
+- 완
+
 [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 
 [Decode Ways](https://leetcode.com/problems/decode-ways/)
@@ -175,7 +177,7 @@ last_modified_at: 2025-09-20
 
 [Word Search](https://leetcode.com/problems/word-search/)
 
-String
+## String
 
 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
