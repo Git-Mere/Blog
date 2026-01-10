@@ -125,7 +125,11 @@ last_modified_at: 2025-09-20
 
 [Decode Ways](https://leetcode.com/problems/decode-ways/)
 
+- 완
+
 [Unique Paths](https://leetcode.com/problems/unique-paths/)
+
+- 완
 
 [Jump Game](https://leetcode.com/problems/jump-game/)
 
