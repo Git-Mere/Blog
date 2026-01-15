@@ -133,6 +133,8 @@ last_modified_at: 2025-09-20
 
 [Jump Game](https://leetcode.com/problems/jump-game/)
 
+- 완
+
 ## Graph
 [Clone Graph](https://leetcode.com/problems/clone-graph/)
 
