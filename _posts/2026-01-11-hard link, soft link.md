@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /categories4/git_commands/
+permalink: /categories4/linux_hard-soft-link/
 
 toc: true
 toc_sticky: true
