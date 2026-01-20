@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /categories4/linux_hard-soft-link/
+permalink: /linux/hard-and-soft-links/
 
 toc: true
 toc_sticky: true

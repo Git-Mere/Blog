@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /categories4/async-await/
+permalink: /csharp/async-await-in-csharp/
 
 toc: true
 toc_sticky: true

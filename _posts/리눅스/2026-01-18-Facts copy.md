@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /categories4/facts/
+permalink: /linux/shell-quoting-facts-copy/
 
 toc: true
 toc_sticky: true

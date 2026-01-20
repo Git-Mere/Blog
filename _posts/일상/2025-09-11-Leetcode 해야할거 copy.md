@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /categories4/do_leetcode/
+permalink: /daily/leetcode-todo-list/
 
 toc: true
 toc_sticky: true
@@ -141,6 +141,10 @@ last_modified_at: 2025-09-20
 - 완
 
 [Course Schedule](https://leetcode.com/problems/course-schedule/)
+
+- 완
+- 솔루션 봄..
+- 위상 정렬..
 
 [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
 

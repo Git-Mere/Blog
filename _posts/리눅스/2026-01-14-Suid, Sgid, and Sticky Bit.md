@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /categories4/suid-sgid-sticky_bit/
+permalink: /linux/suid-sgid-and-sticky-bit/
 
 toc: true
 toc_sticky: true
