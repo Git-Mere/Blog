@@ -3,7 +3,7 @@ title: "suid, sgid, and sticky bit"
 excerpt: " "
 
 categories:
-  - 내가_볼려고_만든_것들
+  - linux
 tags:
   - [tag1, tag2]
 

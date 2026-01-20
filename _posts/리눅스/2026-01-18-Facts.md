@@ -3,7 +3,7 @@ title: "배운 사실들"
 excerpt: " "
 
 categories:
-  - 내가_볼려고_만든_것들
+  - linux
 tags:
   - [tag1, tag2]
 

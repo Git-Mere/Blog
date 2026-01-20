@@ -3,7 +3,7 @@ title: "async, await 키워드 in C#"
 excerpt: " "
 
 categories:
-  - 내가_볼려고_만든_것들
+  - csharp
 tags:
   - [tag1, tag2]
 
